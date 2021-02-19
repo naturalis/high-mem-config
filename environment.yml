@@ -1,0 +1,9 @@
+name: high-mem-hpc
+channels:
+  - bioconda
+dependencies:
+  - samtools
+  - bwa
+  - minimap2
+  - bcftools
+  - raxml
