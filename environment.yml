@@ -5,6 +5,7 @@ channels:
 dependencies:
   - _libgcc_mutex=0.1=main
   - _r-mutex=1.0.0=anacondar_1
+  - asn1crypto=1.4.0=py_0
   - bamm=1.7.3=0
   - beagle-lib=3.1.2=hc9558a2_2
   - beast=1.10.4=1
@@ -16,7 +17,12 @@ dependencies:
   - ca-certificates=2021.1.19=h06a4308_0
   - cairo=1.14.12=h8948797_3
   - certifi=2020.6.20=pyhd3eb1b0_3
+  - cffi=1.14.0=py27he30daa8_1
+  - chardet=3.0.4=py27_1003
+  - cryptography=2.8=py27h1ba5d50_0
   - cutadapt=1.18=py27h14c3975_1
+  - enum34=1.1.6=py27_1
+  - expat=2.2.10=he6710b0_2
   - fastp=0.20.1=h8b12597_0
   - fastq-tools=0.8.3=hed695b0_0
   - fastqc=0.11.9=0
@@ -29,7 +35,9 @@ dependencies:
   - harfbuzz=2.4.0=hca77d97_1
   - htslib=1.11=hd3b49d5_2
   - icu=58.2=he6710b0_3
+  - idna=2.10=pyhd3eb1b0_0
   - intel-openmp=2020.2=254
+  - ipaddress=1.0.23=py_0
   - jpeg=9b=h024ee3a_2
   - k8=0.2.5=he513fc3_0
   - kmergenie=1.7016=py27r3.2.2_0
@@ -50,6 +58,8 @@ dependencies:
   - libuuid=1.0.3=h1bed415_2
   - libxcb=1.14=h7b6447c_0
   - libxml2=2.9.10=hb55368b_3
+  - libxslt=1.1.34=hc22bd24_0
+  - lxml=4.4.2=py27hefd8a0e_0
   - lz4-c=1.9.3=h2531618_0
   - minimap2=2.17=hed695b0_3
   - mkl=2020.2=256
@@ -65,13 +75,39 @@ dependencies:
   - pango=1.45.3=hd140c19_0
   - pcre=8.44=he6710b0_0
   - perl=5.26.2=h14c3975_0
+  - perl-app-cpanminus=1.7044=pl526_1
   - perl-bioperl=1.6.924=4
+  - perl-carp=1.38=pl526_3
+  - perl-common-sense=3.74=pl526_2
+  - perl-constant=1.33=pl526_1
+  - perl-data-stag=0.14=pl526_1
+  - perl-exporter=5.72=pl526_1
+  - perl-extutils-makemaker=7.36=pl526_1
+  - perl-file-path=2.16=pl526_0
+  - perl-file-temp=0.2304=pl526_2
+  - perl-graph=0.9704=pl526_1
+  - perl-io-string=1.08=pl526_3
+  - perl-json=4.02=pl526_0
+  - perl-json-xs=2.34=pl526h6bb024c_3
+  - perl-libxml-perl=0.08=pl526_2
+  - perl-mldbm=2.05=pl526_1
+  - perl-parent=0.236=pl526_1
   - perl-threaded=5.26.0=0
+  - perl-types-serialiser=1.0=pl526_2
+  - perl-xml-libxml=2.0132=pl526h7ec2d77_1
+  - perl-xml-libxslt=1.94=pl526_1
+  - perl-xml-namespacesupport=1.12=pl526_0
+  - perl-xml-parser=2.44=pl526h4e0c4b3_7
+  - perl-xml-sax=1.02=pl526_0
+  - perl-xml-sax-base=1.09=pl526_0
   - perl-yaml=1.29=pl526_0
   - phylip=3.697=h470a237_0
   - pigz=2.4=h84994c4_0
   - pip=19.3.1=py27_0
   - pixman=0.40.0=h7b6447c_0
+  - pycparser=2.20=py_2
+  - pyopenssl=20.0.1=pyhd3eb1b0_1
+  - pysocks=1.7.1=py27_0
   - python=2.7.18=h15b4118_1
   - r=3.2.2=0
   - r-assertthat=0.1=r3.2.2_1a
@@ -160,14 +196,20 @@ dependencies:
   - r-xts=0.9_7=r3.2.2_0a
   - r-yaml=2.1.13=r3.2.2_0
   - r-zoo=1.7_12=r3.2.2_1a
+  - racon=1.4.20=he513fc3_0
   - raxml=8.2.12=h516909a_2
   - readline=8.1=h27cfd23_0
+  - requests=2.25.1=pyhd3eb1b0_0
   - samtools=1.2=2
   - setuptools=44.0.0=py27_0
+  - sickle=0.7.0=pyh9f0ad1d_0
   - six=1.15.0=pyhd3eb1b0_0
   - spades=3.13.0=0
   - sqlite=3.33.0=h62c20be_0
+  - structure=2.3.4=h516909a_2
   - tk=8.6.10=hbc83047_0
+  - trimal=1.4.1=hc9558a2_4
+  - urllib3=1.25.7=py27_0
   - wheel=0.36.2=pyhd3eb1b0_0
   - xopen=0.7.3=py_0
   - xz=5.2.5=h7b6447c_0
