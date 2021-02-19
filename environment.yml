@@ -7,3 +7,19 @@ dependencies:
   - minimap2
   - bcftools
   - raxml
+  - bamm
+  - beast
+  - bioawk
+  - perl-bioperl
+  - phylip
+  - cutadapt
+  - fastp
+  - fastqc
+  - spades
+  - fastq-tools
+  - kmergenie
+  - muscle
+  - nanofilt
+  
+# exabayes
+# partitionfinder
