@@ -2,6 +2,8 @@ name: high-mem-hpc
 channels:
   - bioconda
 dependencies:
+  - cairo==1.14.12
+  - fontconfig==2.13.0
   - samtools==1.3.1
   - bwa
   - minimap2
