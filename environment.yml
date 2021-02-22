@@ -65,6 +65,7 @@ dependencies:
   - fastp=0.20.1=h8b12597_0
   - fastq-tools=0.8.3=hed695b0_0
   - fastqc=0.11.9=0
+  - fasttree=2.1.10=h516909a_4
   - fastx_toolkit=0.0.14=2
   - font-ttf-dejavu-sans-mono=2.37=h6964260_0
   - fontconfig=2.13.1=h6c09931_0
@@ -153,6 +154,7 @@ dependencies:
   - pandoc=2.11=hb0f4dca_0
   - pango=1.42.4=h049681c_0
   - parafly=r2013_01_21=1
+  - pasta=1.7.8=py27h14c3975_3
   - pcre=8.44=he6710b0_0
   - perl=5.26.2=h14c3975_0
   - perl-aceperl=1.92=pl526_2
@@ -412,6 +414,7 @@ dependencies:
   - prank=v.170427=hc9558a2_3
   - prinseq=0.20.4=4
   - pycparser=2.20=py_2
+  - pymongo=3.9.0=py27he6710b0_0
   - pyopenssl=20.0.1=pyhd3eb1b0_1
   - pyparsing=2.4.7=pyhd3eb1b0_0
   - pyqt=5.9.2=py27h05f1152_2
