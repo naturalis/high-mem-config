@@ -85,6 +85,7 @@ dependencies:
   - gst-plugins-base=1.14.0=hbbd80ab_1
   - gstreamer=1.14.0=hb453b48_1
   - harfbuzz=1.8.8=hffaf4a1_0
+  - hmmer=3.3.2=he1b5a44_0
   - htslib=1.11=hd3b49d5_2
   - hyphy=2.5.8=ha076c6e_1
   - icu=58.2=he6710b0_3
@@ -131,6 +132,8 @@ dependencies:
   - make=4.2.1=h1bed415_1
   - mapdamage2=2.0.6=1
   - matplotlib=2.2.3=py27hb69df0a_0
+  - mcl=14.137=pl526h516909a_5
+  - megahit=1.2.9=h8b12597_0
   - minimap2=2.17=hed695b0_3
   - mira=4.9.6=1
   - mkl=2020.2=256
@@ -229,6 +232,7 @@ dependencies:
   - perl-extutils-makemaker=7.36=pl526_1
   - perl-extutils-manifest=1.72=pl526_0
   - perl-extutils-parsexs=3.35=pl526_0
+  - perl-file-find-rule=0.34=pl526_5
   - perl-file-listing=6.04=pl526_1
   - perl-file-path=2.16=pl526_0
   - perl-file-slurp-tiny=0.004=pl526_1
@@ -315,6 +319,7 @@ dependencies:
   - perl-net-http=6.19=pl526_0
   - perl-net-ssleay=1.88=pl526h90d6eec_0
   - perl-ntlm=1.09=pl526_4
+  - perl-number-compare=0.03=pl526_2
   - perl-number-format=1.75=pl526_3
   - perl-ole-storage_lite=0.19=pl526_3
   - perl-package-deprecationmanager=0.17=pl526_0
@@ -368,6 +373,7 @@ dependencies:
   - perl-text-abbrev=1.02=pl526_0
   - perl-text-diff=1.45=pl526_0
   - perl-text-format=0.59=pl526_2
+  - perl-text-glob=0.11=pl526_1
   - perl-text-parsewords=3.30=pl526_0
   - perl-threaded=5.26.0=0
   - perl-tie-ixhash=1.23=pl526_2
@@ -549,11 +555,13 @@ dependencies:
   - trimal=1.4.1=hc9558a2_4
   - trimmomatic=0.39=1
   - trinity=2.1.1=6
+  - trinotate=3.2.1=pl526_0
   - umi_tools=0.5.4=py27h470a237_2
   - urllib3=1.25.7=py27_0
   - varscan=2.4.4=0
   - vcftools=0.1.16=he513fc3_4
   - vsearch=2.15.2=h2d02072_0
+  - wget=1.20.1=h20c2e04_0
   - wgs2ncbi=1.1.2=pl526_0
   - wheel=0.36.2=pyhd3eb1b0_0
   - xopen=0.7.3=py_0
