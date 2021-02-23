@@ -78,6 +78,7 @@ dependencies:
   - gatk4=4.1.9.0=py39_0
   - giflib=5.1.4=h14c3975_1
   - glib=2.63.1=h5a9c865_0
+  - glimmerhmm=3.0.4=pl526hf484d3e_3
   - gnuplot=5.0.3=4
   - graphite2=1.3.14=h23475e2_0
   - graphviz=2.40.1=h21bd128_2
@@ -96,6 +97,7 @@ dependencies:
   - java-jdk=8.0.92=1
   - jellyfish=2.2.10=h6bb024c_1
   - jemalloc=4.5.0=0
+  - joblib=0.13.2=py27_0
   - jpeg=9b=h024ee3a_2
   - k8=0.2.5=he513fc3_0
   - kiwisolver=1.1.0=py27he6710b0_0
@@ -430,6 +432,7 @@ dependencies:
   - python-dateutil=2.8.1=pyhd3eb1b0_0
   - pytz=2021.1=pyhd3eb1b0_0
   - qt=5.9.7=h5867ecd_1
+  - quast=5.0.2=py27pl526ha92aebf_0
   - r=3.2.2=0
   - r-assertthat=0.1=r3.2.2_1a
   - r-base=3.2.2=0
@@ -534,6 +537,7 @@ dependencies:
   - seqtk=1.3=hed695b0_2
   - setuptools=44.0.0=py27_0
   - sickle=0.7.0=pyh9f0ad1d_0
+  - simplejson=3.8.1=py27_0
   - singledispatch=3.4.0.3=py_1001
   - sip=4.19.8=py27hf484d3e_0
   - six=1.15.0=pyhd3eb1b0_0
@@ -551,6 +555,7 @@ dependencies:
   - tk=8.6.10=hbc83047_0
   - tophat=2.1.1=py27_3
   - tornado=5.1.1=py27h7b6447c_0
+  - transdecoder=5.5.0=pl526_2
   - translatorx=1.1=2
   - trimal=1.4.1=hc9558a2_4
   - trimmomatic=0.39=1
@@ -569,6 +574,4 @@ dependencies:
   - zeromq=4.3.3=he6710b0_3
   - zlib=1.2.11=h7b6447c_3
   - zstd=1.4.5=h9ceee32_0
-  - pip:
-    - faststructure==0.0.0
 prefix: /home/ubuntu/miniconda3/envs/high-mem-hpc
